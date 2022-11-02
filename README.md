@@ -7,7 +7,9 @@ pyramids and polyhedrons:
 - dodecahedron
 - icosahedron
 - truncated icosahedron (football)
+- other truncated platonian solids
 - geodesic spheres (level 1 to 10)
+
 
 All these parts are fully scalable and can be adjusted at all time.
 
